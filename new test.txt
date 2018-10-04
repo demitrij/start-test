@@ -2,3 +2,4 @@ some information
 new test
 1 more test
 add 1
+new inform
